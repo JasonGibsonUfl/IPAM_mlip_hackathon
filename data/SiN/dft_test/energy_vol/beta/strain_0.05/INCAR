@@ -1,0 +1,12 @@
+ALGO = Fast
+PREC = Accurate
+IBRION = 2
+ISIF = 2
+LWAVE = .False.
+LCHARG = .False.
+LREAL = Auto
+ISMEAR = 2
+SIGMA = .1
+NPAR = 4
+NSW = 100
+NCORE = 2
